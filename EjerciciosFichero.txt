@@ -1,0 +1,8 @@
+Prueba E6 linea 1
+Prueba E6 linea 2
+Prueba E6 linea 3
+Fin prueba E6
+Prueba E7 linea 1
+Prueba E7 linea 2
+Prueba E7 linea 3
+Fin prueba E7
